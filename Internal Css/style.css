@@ -1,0 +1,47 @@
+
+
+/*          CSS -> CASCADING STYLE SHEET
+                   THE TYPE OF CSS ARE-
+                   1. Inline Css  - Work on single or specific tages
+                   2. Internal Css - Work on single pages.
+                   3. External Css - Work on multiple pages.
+
+
+                     CSS Selector 
+
+                     - > there are 5 type of Selector.
+                     1.Element Selector
+                     2.Class Selector
+                     3.Id Selector
+                     4.Group Selector
+                     5.Universal Selector
+
+
+                     COMBINATORS IN CSS - A Combinator is Something that Explains the Reationship Between the Selector
+
+                     - There are Four diffrent Combinators in CSS
+                     1.Descendant Selector(space)
+
+                     div p {
+                        background-color: yellow;
+                        }
+
+                     2.Child selector(>)
+
+                     div > p {
+                            background-color: yellow;
+                        }
+
+                     3.Adjacent sibling Selector(+)
+
+                     div + p {
+                           background-color: yellow;
+                        }
+                     4.General Sibling Selector(~)
+
+                     div ~ p {
+                          background-color: yellow;
+                        }
+                   */
+
+    
